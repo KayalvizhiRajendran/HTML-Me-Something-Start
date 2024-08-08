@@ -1,1 +1,26 @@
-/* Write your CSS here! */
+.center{
+    align-content: center;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+
+  body{
+    margin : 8px;
+    display: block;
+  }
+
+  #mainHeading{
+    color: red;
+    font-style: italic;
+    align-content: center;
+  }
+
+  .funParagraph{
+    color:green;
+    font-style: italic;
+  }
